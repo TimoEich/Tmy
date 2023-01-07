@@ -1,18 +1,22 @@
 # TMY - DISCORD
 
-Simple Overview about Tasks and other stuff which will or could be done to Tmy's Discord and Twitch.
+Simple Overview about Tasks and other stuff which will or could be done to the Discord Server.
 
 ## TODO
 
     -   [] Complete revamp of Channel Names and Order
+    -   [] I think we need less channels, possible?
     -   [] Formatting every Channel Content
+    -   [] Try writing down faq's from ppl on the server
     -   [] Read throu all Text and shortening as good as possible
-    -   [] Look for double content in different Channels
-    -   [] Start using Embeded Messages
+    -   [] Look for double content in different Channels and delete it
+    -   [] Start using Embeded Messages, but where?
+        -   [] annoucements
     -   [] One hole new Section about and for TMY's Interface
-        -   [] Sub only?
+        -   [] Sub only(no but yes?)
         -   [] Wago and Pastebin code for Profiles
         -   [] FAQ Section
+            - [] Two FAQ Section(General + Interface)?
     -   [] Can we integrate Twitch more in the Discord?
     -   [] Enabeling the Community Feature for the Server?
 
@@ -23,4 +27,26 @@ SERVER STATS
     -   Total Member
     -   Online
 
+START HERE
+
+    - server rules
+    - select role
+
 SERVER INFO
+
+    - annoucements
+    - information
+    - streams
+    - faq
+
+WOW
+
+    - W.I.P
+
+INTERFACE
+
+    - W.I.P
+
+GENERAL TALK
+
+    - W.I.P
