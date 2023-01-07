@@ -31,7 +31,10 @@ Simple Overview about Tasks and other stuff which will or could be done to the D
         -   [] FAQ Section
             -   [] Two FAQ Section(General + Interface)?
     -   [] Can we integrate Twitch more in the Discord?
-    -   [] Enabeling the Community Feature for the Server?
+    -   [x] Enabeling the Community Feature for the Server?
+    -   [x] Enabeling Welcome Screen
+        -   [] Welcome Message
+        -   [] Top Things to do
 
 ## CHANNEL SETUP
 
@@ -56,10 +59,12 @@ SERVER INFO
 
 WOW
 
+    - resources
     - W.I.P
 
 INTERFACE
 
+    - resources
     - W.I.P
 
 GENERAL TALK
@@ -69,5 +74,11 @@ GENERAL TALK
 ## BOTS
 
 What Bots we need and Why
+
+| Bot        |   Bot Name    |             Task             | Status |
+| ---------- | :-----------: | :--------------------------: | -----: |
+| Mee6       | annoying bot  | General Purpose, Moderating  |   free |
+| YAGPDB     |   role guy    | General Purpose, Class Roles |   free |
+| Streamcord | Streamer Ping |                              |   free |
 
 ## W.I.P
