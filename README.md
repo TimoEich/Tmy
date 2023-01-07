@@ -1,6 +1,9 @@
 # TMY - DISCORD
 
-Simple Overview about Tasks and other stuff which will or could be done to the Discord Server.
+![Discord](https://img.shields.io/discord/965371615414190110?label=TMY&style=for-the-badge)
+
+Simple Information Sheet for the Discord Server.  
+Also tasks and other stuff which will or could be done to the Discord Server.
 
 ## TABLE OF CONTENT
 
@@ -17,6 +20,8 @@ Simple Overview about Tasks and other stuff which will or could be done to the D
         -   [] Personal Computer
         -   [] Cloud
     -   [] I think we need less channels, possible?
+    -   [] Building arms-info and & fury-info
+        -   [] both should look the same, as far as possible
     -   [] Formatting every Channel Content
     -   [] Try writing down faq's from ppl on the server
         -   [] Interface FAQ's
@@ -25,6 +30,7 @@ Simple Overview about Tasks and other stuff which will or could be done to the D
     -   [] Look for double content in different Channels and delete it
     -   [] Start using Embeded Messages, but where?
         -   [] annoucements
+        -   [] addons
     -   [] One hole new Section about and for TMY's Interface? Ppl love AddOns
         -   [] Sub only(no but yes?)
         -   [] Wago and Pastebin code for Profiles
@@ -40,36 +46,42 @@ Simple Overview about Tasks and other stuff which will or could be done to the D
 
 One of many possible Channel Setups, lets figure out what makes sense.
 
-SERVER STATS
+### SERVER STATS
 
     -   Total Member
     -   Online
 
-START HERE
+### START HERE
 
-    - server rules
-    - select role
+    -   server rules
+    -   select role
 
-SERVER INFO
+### SERVER INFO
 
-    - annoucements
-    - information
-    - streams
-    - faq
+    -   annoucements
+    -   information
+    -   changelog
+    -   streams
 
-WOW
+### WOW
 
-    - resources
-    - W.I.P
+    -   faq
+    -   resources
+    -   warrior discussions
+    -   W.I.P
 
-INTERFACE
+### INTERFACE
 
-    - resources
-    - W.I.P
+    -   faq
+    -   resources
+    -   W.I.P
 
-GENERAL TALK
+### GENERAL TALK
 
-    - W.I.P
+    -   talk talk
+    -   bunny rave
+    -   josh pizza oven
+    -   W.I.P
 
 ## BOTS
 
