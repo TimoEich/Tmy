@@ -2,6 +2,13 @@
 
 Simple Overview about Tasks and other stuff which will or could be done to the Discord Server.
 
+## TABLE OF CONTENT
+
+1. [ToDo List](#todo)
+2. [Channel Setup](#channel-setup)
+3. [Bot List](#bots)
+4. [W.I.P](#wip)
+
 ## TODO
 
     -   [] Complete revamp of Channel Names and Order
@@ -27,6 +34,8 @@ Simple Overview about Tasks and other stuff which will or could be done to the D
     -   [] Enabeling the Community Feature for the Server?
 
 ## CHANNEL SETUP
+
+One of many possible Channel Setups, lets figure out what makes sense.
 
 SERVER STATS
 
@@ -56,3 +65,9 @@ INTERFACE
 GENERAL TALK
 
     - W.I.P
+
+## BOTS
+
+What Bots we need and Why
+
+## W.I.P
