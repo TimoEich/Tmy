@@ -10,7 +10,8 @@ Also tasks and other stuff which will or could be done to the Discord Server.
 1. [ToDo List](#todo)
 2. [Channel Setup](#channel-setup)
 3. [Bot List](#bots)
-4. [W.I.P](#wip)
+4. [Media Usage](#media-usage)
+5. [Backup AND TESTING ENVIRONMENT](#backup-and-testing-environment)
 
 ## TODO
 
@@ -101,4 +102,10 @@ What Bots we need and Why
 | YAGPDB     |   role guy    | General Purpose, Class Roles |   free |
 | Streamcord | Streamer Ping |                              |   free |
 
-## W.I.P
+## MEDIA USAGE
+
+    - W.I.P
+
+## BACKUP AND TESTING ENVIRONMENT
+
+- Backup Server: <https://discord.gg/zGyNrvXBuq>
