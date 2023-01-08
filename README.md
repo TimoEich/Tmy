@@ -62,7 +62,7 @@ One of many possible Channel Setups, lets figure out what makes sense.
 
 ### START HERE
 
-    -   server rules
+    -   rules and info
     -   select role
 
 ### SERVER INFO
