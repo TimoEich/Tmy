@@ -14,33 +14,41 @@ Also tasks and other stuff which will or could be done to the Discord Server.
 
 ## TODO
 
-    -   [] Complete revamp of Channel Names and Order
-    -   [] Need a Backup Solution for all the Content
-        -   [] Privat Discord Server
-        -   [] Personal Computer
-        -   [] Cloud
-    -   [] I think we need less channels, possible?
-    -   [] Building arms-info and & fury-info
-        -   [] both should look the same, as far as possible
-    -   [] Formatting every Channel Content
-    -   [] Try writing down faq's from ppl on the server
-        -   [] Interface FAQ's
-        -   [] WoW FAQ's
-    -   [] Read throu all Text and shortening as good as possible
-    -   [] Look for double content in different Channels and delete it
-    -   [] Start using Embeded Messages, but where?
-        -   [] annoucements
-        -   [] addons
-    -   [] One hole new Section about and for TMY's Interface? Ppl love AddOns
-        -   [] Sub only(no but yes?)
-        -   [] Wago and Pastebin code for Profiles
-        -   [] FAQ Section
-            -   [] Two FAQ Section(General + Interface)?
-    -   [] Can we integrate Twitch more in the Discord?
-    -   [x] Enabeling the Community Feature for the Server?
-    -   [x] Enabeling Welcome Screen
-        -   [] Welcome Message
-        -   [] Top Things to do
+### GENERAL DISCORD
+  
+- [ ] Complete revamp of Channel Names and Order
+- [ ] Formatting every Channel Content
+- [ ] Need a Backup Solution for all the Content
+  - [ ] Privat Discord Server
+  - [ ] Personal Computer
+  - [ ] Cloud
+- [ ] I think we need less channels, possible?
+- [ ] Try writing down faq's from ppl on the server
+  - [ ] Interface FAQ's
+  - [ ] WoW FAQ's
+- [ ] Start using Embeded Messages, but where?
+  - [ ] annoucements
+  - [ ] addons
+- [ ] Two FAQ Section(General + Interface)?
+- [ ] Can we integrate Twitch more in the Discord?
+- [x] Enabeling the Community Feature for the Server?
+- [x] Enabeling Welcome Screen
+  - [ ] Welcome Message
+  - [ ] Top Things to do
+  
+### FURY AND ARMS SECTION
+
+- [ ] Building arms-info and & fury-info
+  - [ ] both should look the same, as far as possible
+- [ ] Read throu all Text and shortening as good as possible
+- [ ] Look for double content and delete it
+
+### INTERFACE SECTION
+
+- [ ] One hole new Section about and for TMY's Interface? Ppl love AddOns
+  - [ ] Sub only(no but yes?)
+  - [ ] Wago and Pastebin code for Profiles
+  - [ ] FAQ Section
 
 ## CHANNEL SETUP
 
