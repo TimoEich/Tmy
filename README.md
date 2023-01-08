@@ -11,7 +11,7 @@ Also tasks and other stuff which will or could be done to the Discord Server.
 2. [Channel Setup](#channel-setup)
 3. [Bot List](#bots)
 4. [Media Usage](#media-usage)
-5. [Backup AND TESTING ENVIRONMENT](#backup-and-testing-environment)
+5. [Backup and Testing Environment](#backup-and-testing-environment)
 
 ## TODO
 
