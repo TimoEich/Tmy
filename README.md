@@ -18,6 +18,9 @@ Also tasks and other stuff which will or could be done to the Discord Server.
 ### GENERAL DISCORD
   
 - [ ] Complete revamp of Channel Names and Order
+  - [x] Spell Reflect Heaven
+  - [x] Rules and Info
+  - [x] Gerneral Warrior Info
 - [ ] Formatting every Channel Content
 - [ ] Need a Backup Solution for all the Content
   - [ ] Privat Discord Server
