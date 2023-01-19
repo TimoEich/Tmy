@@ -23,6 +23,7 @@ Also tasks and other stuff which will or could be done to the Discord Server.
   - [x] Gerneral Warrior Info
   - [x] Changelog
   - [x] Resources
+  - [ ] Builds
 - [ ] Formatting every Channel Content
 - [ ] Need a Backup Solution for all the Content
   - [ ] Privat Discord Server
@@ -105,7 +106,7 @@ What Bots we need and Why
 | ---------- | :-----------: | :--------------------------: | -----: |
 | Mee6       | annoying bot  | General Purpose, Moderating  |   free |
 | YAGPDB     |   role guy    | General Purpose, Class Roles |   free |
-| Streamcord | Streamer Ping |                              |   free |
+| Streamcord | Streamer Ping |   Integrate Twitch           |   free |
 
 ## MEDIA USAGE
 
