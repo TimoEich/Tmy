@@ -23,12 +23,14 @@ Also tasks and other stuff which will or could be done to the Discord Server.
   - [x] Gerneral Warrior Info
   - [x] Changelog
   - [x] Resources
-  - [ ] Builds
+  - [x] builds-arms
+  - [ ] builds-fury
 - [ ] Formatting every Channel Content
-- [ ] Need a Backup Solution for all the Content
-  - [ ] Privat Discord Server
+- [x] Need a Backup Solution for all the Content
+  - [x] Privat Discord Server
   - [ ] Personal Computer
   - [ ] Cloud
+  - [x] github
 - [ ] I think we need less channels, possible?
 - [ ] Try writing down faq's from ppl on the server
   - [ ] Interface FAQ's
@@ -36,7 +38,6 @@ Also tasks and other stuff which will or could be done to the Discord Server.
 - [ ] Start using Embeded Messages, but where?
   - [ ] annoucements
   - [ ] addons
-- [ ] Two FAQ Section(General + Interface)?
 - [ ] Can we integrate Twitch more in the Discord?
 - [x] Enabeling the Community Feature for the Server?
 - [x] Enabeling Welcome Screen
@@ -50,12 +51,13 @@ Also tasks and other stuff which will or could be done to the Discord Server.
 - [ ] Read throu all Text and shortening as good as possible
 - [ ] Look for double content and delete it
 
-### INTERFACE SECTION
+### INTERFACE SECTION(Not for now, may be in future)
 
 - [ ] One hole new Section about and for TMY's Interface? Ppl love AddOns
   - [ ] Sub only(no but yes?)
   - [ ] Wago and Pastebin code for Profiles
   - [ ] FAQ Section
+  - [x] #weakauras for now
 
 ## CHANNEL SETUP
 
