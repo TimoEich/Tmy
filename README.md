@@ -22,16 +22,17 @@ Also tasks and other stuff which will or could be done to the Discord Server.
   - [x] Rules and Info
   - [x] Gerneral Warrior Info
   - [x] Changelog
+  - [x] weakauras
   - [x] Resources
   - [x] builds-arms
   - [ ] builds-fury
 - [ ] Formatting every Channel Content
 - [x] Need a Backup Solution for all the Content
   - [x] Privat Discord Server
-  - [ ] Personal Computer
-  - [ ] Cloud
+  - [x] Personal Computer
   - [x] github
 - [ ] I think we need less channels, possible?
+  - [x] Yes!
 - [ ] Try writing down faq's from ppl on the server
   - [ ] Interface FAQ's
   - [ ] WoW FAQ's
@@ -83,21 +84,27 @@ One of many possible Channel Setups, lets figure out what makes sense.
 ### WOW
 
     -   faq
+    -   changelog
     -   resources
     -   warrior discussions
+    -   information arms
+    -   information fury
+    -   arms builds
+    -   fury builds
     -   W.I.P
 
-### INTERFACE
+### INTERFACE(not used for now)
 
     -   faq
     -   resources
     -   W.I.P
 
-### GENERAL TALK
+### GENERAL
 
-    -   talk talk
+    -   gerneral
     -   bunny rave
     -   josh pizza oven
+    -   song suggestions
     -   W.I.P
 
 ## BOTS
