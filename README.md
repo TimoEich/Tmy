@@ -24,6 +24,7 @@ Also tasks and other stuff which will or could be done to the Discord Server.
   - [x] Changelog
   - [x] weakauras
   - [x] Resources
+  - [x] faq
   - [x] builds-arms
   - [ ] builds-fury
 - [ ] Formatting every Channel Content
