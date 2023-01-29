@@ -82,17 +82,26 @@ One of many possible Channel Setups, lets figure out what makes sense.
     -   changelog
     -   streams
 
+### SUB HANGOUT
+
+    -   annoucements
+    -   information
+    -   changelog
+    -   streams
+
 ### WOW
 
     -   faq
     -   changelog
     -   resources
+    -   weakauras
+    -   spell reflect heaven
     -   warrior discussions
     -   information arms
     -   information fury
     -   arms builds
     -   fury builds
-    -   W.I.P
+    -   log reviews
 
 ### INTERFACE(not used for now)
 
@@ -103,6 +112,7 @@ One of many possible Channel Setups, lets figure out what makes sense.
 ### GENERAL
 
     -   gerneral
+    -   memes
     -   bunny rave
     -   josh pizza oven
     -   song suggestions
@@ -120,7 +130,15 @@ What Bots we need and Why
 
 ## MEDIA USAGE
 
-    - W.I.P
+### BANNER AND ICONS
+
+    -   Discord
+        - Server Banner: 960x540
+
+    -   Desktop Wallpaper
+        - 1920x1080
+        - 2560x1080
+        - 2560x1440
 
 ## BACKUP AND TESTING ENVIRONMENT
 
